@@ -1,3 +1,3 @@
 ### JavaScript Calculator
 
-[visit app](https://wojces.github.io/javascript-calculator/)
+[visit project site](https://wojces.github.io/javascript-calculator/)
